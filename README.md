@@ -52,7 +52,5 @@ Results are inevitable when efforts are constant.❤️</p>
 <a href="https://medium.com/@LuanR.Rodrigues" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
  
-
-  ![Snake animation](https://github.com/LuanR.Rodrigues/LuanR.Rodrigues/blob/output/github-contribution-grid-snake.svg)
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
