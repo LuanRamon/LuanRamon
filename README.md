@@ -1,5 +1,3 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/LuanR.Rodrigues/LuanR.Rodrigues/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
 
 <p ❤️Hello, my name is Luan, <br><br> I'm a full stack jr developer.
 passionate about discovering new things.
@@ -7,17 +5,13 @@ Use them to create high-quality solutions.
 <strong>From backend development using Flask to frontend development</strong>
 Focused on web development.
 
-Results are inevitable when efforts are constant.❤️</p>&nbsp;
+Results are inevitable when efforts are constant.❤️</p>
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=LuanR.Rodrigues&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-LuanR.Rodrigues.vercel.app/api/top-langs/?username=LuanR.Rodrigues&show_icons=true&theme=radical&layout=compact" />
  </div>
  
- &nbsp;
- &nbsp;
-
-
 
 ## My Skills
 
@@ -48,8 +42,6 @@ Results are inevitable when efforts are constant.❤️</p>&nbsp;
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
 
 
-&nbsp;
-&nbsp;
 
 ## Contacts:
 
