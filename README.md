@@ -53,6 +53,6 @@ Results are inevitable when efforts are constant.❤️</p>
 </div>&nbsp;&nbsp;
  
 
-  
+  ![Snake animation](https://github.com/LuanR.Rodrigues/LuanR.Rodrigues/blob/output/github-contribution-grid-snake.svg)
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
