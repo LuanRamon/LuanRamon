@@ -1,5 +1,5 @@
 
-<p ❤️Hello, my name is Luan, <br><br> I'm a full stack jr developer.
+<p❤️Hello, my name is Luan, <br><br> I'm a full stack jr developer.
 passionate about discovering new things.
 Use them to create high-quality solutions.
 <strong>From backend development using Flask to frontend development</strong>
