@@ -1,11 +1,11 @@
 
-<p❤️Hello, my name is Luan, <br><br> I'm a full stack jr developer.
+❤️Hello, my name is Luan, <br><br> I'm a full stack jr developer.
 passionate about discovering new things.
 Use them to create high-quality solutions.
 <strong>From backend development using Flask to frontend development</strong>
 Focused on web development.
 
-Results are inevitable when efforts are constant.❤️</p>
+Results are inevitable when efforts are constant.❤️
 
 <div  align="center" style="margin-bottom:100px">
 
